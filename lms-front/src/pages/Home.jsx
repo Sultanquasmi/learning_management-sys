@@ -12,6 +12,7 @@ function Home() {
                     <p className="text-xl text-gray-200">
                         We have a large library of courses taught by highly skilled and qualified faculties at a very affordable cose.
                     </p>
+                    
 
                     <div className="space-x-6">
                         <Link to="/courses" >
